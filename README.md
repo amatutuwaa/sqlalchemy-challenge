@@ -16,7 +16,7 @@ Steps:
 4. Loading the query results into a Pandas DataFrame, and setting the index to the "date" column.
 5. Sorting the DataFrame values by "date".
 6. Plotting the results by using the DataFrame plot method, as the following image shows:
-https://static.bc-edx.com/data/dl-1-2/m10/lms/img/precipitation.jpg![image](https://user-images.githubusercontent.com/114604829/226148868-282984e3-57a4-451f-bfd4-dd074a7db3fe.png)
+<img width="468" alt="precipitation" src="https://user-images.githubusercontent.com/114604829/226149061-27fa8c84-daaa-425b-9ac4-3d2c3b6d6435.png">
 7. Using Pandas to print the summary statistics for the precipitation data.
 
 ### Station Analysis
@@ -30,7 +30,7 @@ Steps:
    - Filtering by the station that has the greatest number of observations.
    - Querying the previous 12 months of TOBS data for that station.
    - Plottting the results as a histogram with bins=12, as the following image shows:
-   https://static.bc-edx.com/data/dl-1-2/m10/lms/img/station-histogram.jpg![image](https://user-images.githubusercontent.com/114604829/226148935-72663165-36ba-4e6d-bdce-5d31df47bbcf.png)
+   <img width="478" alt="station-histogram" src="https://user-images.githubusercontent.com/114604829/226149073-f9a38187-5a61-48ca-b2a3-337d318b4bd4.png">
 
 
 ## Part 2: Design Your Climate App
