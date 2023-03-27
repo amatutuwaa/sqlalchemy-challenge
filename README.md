@@ -33,7 +33,7 @@ Steps:
    <img width="478" alt="station-histogram" src="https://user-images.githubusercontent.com/114604829/226149073-f9a38187-5a61-48ca-b2a3-337d318b4bd4.png">
 
 
-## Part 2: Design Your Climate App
+## Part 2: Designing the Climate App
 
 After completing the initial analysis, I design a Flask API based on the queries that I just developed. To do so, I use Flask to create the routes as follows:
 1. /
